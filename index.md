@@ -11,3 +11,5 @@ Update progress and find trainers
 Privacy Policy:
 
 This app collects all inputted user data (workouts, etc)
+
+Ok?
