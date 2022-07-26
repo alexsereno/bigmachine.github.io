@@ -1,17 +1,17 @@
-# bigmachine.github.io
+# 
 
-Big Machine
-Weightlifting focused fitness app 
+Big Machine is a weightlifting focused fitness app 
 
 Key features:
+- Track all workouts in detail!
+- Rest timers
+- Automatic progression!
 
-Track all workouts in detail!
-Rest timers, automatic progression!
 Upcoming features:
+- Share workouts with your friends!
+- Apple Health Integration!
+- Manage multiple fitness clients!
 
-Share workouts with your friends!
-Apple Health Integration!
-Update progress and find trainers
 Privacy Policy:
 
 This app collects all inputted user data (workouts, etc)
