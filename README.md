@@ -1,4 +1,4 @@
-# liftweights.github.io
+# bigmachine.github.io
 
 Lift Weights
 Weightlifting focused fitness app Key features:
