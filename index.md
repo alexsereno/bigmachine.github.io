@@ -1,5 +1,9 @@
-Lift Weights
-Weightlifting focused fitness app Key features:
+# bigmachine.github.io
+
+Big Machine
+Weightlifting focused fitness app 
+
+Key features:
 
 Track all workouts in detail!
 Rest timers, automatic progression!
@@ -12,4 +16,4 @@ Privacy Policy:
 
 This app collects all inputted user data (workouts, etc)
 
-Ok?
+For help you can text (512) 814-5493 or email me@alexsereno.dev
