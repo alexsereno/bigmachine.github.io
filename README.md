@@ -13,3 +13,5 @@ Update progress and find trainers
 Privacy Policy:
 
 This app collects all inputted user data (workouts, etc)
+
+For help you can text (512) 814-5493 or email me@alexsereno.dev
