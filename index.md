@@ -1,6 +1,6 @@
 # 
 
-Big Machine is a weightlifting focused fitness app 
+Big Machine is currently a weightlifting focused fitness app 
 
 Key features:
 - Track all workouts in detail!
@@ -14,6 +14,7 @@ Upcoming features:
 
 Privacy Policy:
 
-This app collects all inputted user data (workouts, etc)
+All of your workout data is private and stored on your apple device w/ CloudKit.
+Data you choose to share is shared privately between you and the individual you share that info with
 
 For help you can text (512) 814-5493 or email me@alexsereno.dev
