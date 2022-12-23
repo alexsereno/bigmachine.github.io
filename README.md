@@ -12,6 +12,8 @@ Apple Health Integration!
 Update progress and find trainers
 Privacy Policy:
 
-This app collects all inputted user data (workouts, etc)
+This app stores all inputted user data in your private icloud account (workouts, etc).
+We want customers not users.
 
 For help you can text (512) 814-5493 or email me@alexsereno.dev
+We also have a discord for bugs or feature requests - https://discord.gg/RebDD8s3ky
