@@ -28,7 +28,7 @@ url: "alexsereno.github.io/bigmachine/" # the base hostname & protocol for your 
 # github_username:  jekyll
 
 # Build settings
-remote_theme: "mmistakes/jekyll-theme-basically-basic"
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins:
   - jekyll-feed
 
@@ -54,3 +54,7 @@ plugins:
 
 #Google Tracking
 google_analytics: G-05MEKYC654
+
+author:
+  name: Alex Sereno
+  # picture: /assets/images/johndoe.png
