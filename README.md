@@ -1,6 +1,7 @@
 # Big Machine - Workout Better
 
-Weighlifting? Yoga? Cycling? Lets build together
+Weighlifting? Yoga? Cycling? Lets build together!
+
 [Download for iOS here](https://apps.apple.com/us/app/the-big-machine/id1636418844)
 
 Track all workouts in detail!
