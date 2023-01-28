@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-sub_title: "Workout tracking for real humans"
+sub_title: "Take your workouts Super Saiyan"
 
 actions:
   - label: "Download for iOS"
